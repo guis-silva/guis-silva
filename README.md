@@ -1,4 +1,4 @@
-# Olá, eu sou o Guilherme Ferreira!
+# Olá, sou o Guilherme Ferreira!
 
 Sou estudante de Jornalismo na Pontifícia Universidade Católica de Goiás.
 Interessado em Tecnologia, Jornalismo de Dados, Educação e Meio Ambiente.
